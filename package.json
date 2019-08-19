@@ -1,0 +1,35 @@
+{
+  "name": "express_api_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminchacko/Express-API-Template.git"
+  },
+  "keywords": [
+    "Express JS",
+    "Node JS",
+    "REST API",
+    "MongoDB",
+    "NoSQL"
+  ],
+  "author": "Benjamin Chacko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminchacko/Express-API-Template/issues"
+  },
+  "homepage": "https://github.com/benjaminchacko/Express-API-Template#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mongoose": "^5.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
