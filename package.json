@@ -1,7 +1,7 @@
 {
   "name": "express_api_template",
   "version": "1.0.0",
-  "description": "",
+  "description": "An Express JS REST API Template with MongoDB as Database",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
