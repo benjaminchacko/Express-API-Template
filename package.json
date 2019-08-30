@@ -1,6 +1,8 @@
 {
   "name": "express_api_template",
   "version": "1.0.0",
+  "author": "Benjamin Chacko",
+  "private": true,
   "description": "An Express JS REST API Template with MongoDB as Database",
   "main": "server.js",
   "scripts": {
@@ -13,12 +15,11 @@
   "keywords": [
     "Express JS",
     "Node JS",
-    "REST API",
     "MongoDB",
+    "REST API",
     "NoSQL"
   ],
-  "author": "Benjamin Chacko",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/benjaminchacko/Express-API-Template/issues"
   },
